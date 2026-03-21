@@ -44,7 +44,7 @@ Analyzes brand-wise price differences
 Highlights loss-making models
 Monitors state-wise sales performance
 📊 Dashboard Walkthrough
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/real-jatin/Car-Sales-Profit-analysis/blob/main/dashboard_cropped_page-0001.jpg)
 1️⃣ Sales & Profit Overview
 
 KPIs (Top Section)
