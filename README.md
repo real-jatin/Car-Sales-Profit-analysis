@@ -45,7 +45,7 @@ Highlights loss-making models
 Monitors state-wise sales performance
 
 📊 Dashboard Walkthrough
-![Dashboard Preview](https://github.com/real-jatin/Car-Sales-Profit-analysis/blob/main/dashboard_cropped_page-0001.jpg)
+![Dashboard Preview]([https://github.com/real-jatin/Car-Sales-Profit-analysis/blob/main/Screenshot%202026-05-11%20183049.png])
 1️⃣ Sales & Profit Overview
 
 KPIs (Top Section)
